@@ -2,7 +2,7 @@
 
 Um silder criado em HTML, CSS e JAVASCRIPT para uma plataforma de trabalho para fotografos, onde você pode postar seus trabalhos e criar Network totalmente de graça
 
-
+<img src="Angle-Print.gif"> 
 <h2 align="center">Slide 1</h3>
 <img src="prints/print1.jpeg"> 
 <h2 align="center">Slide 2</h3>
