@@ -2,6 +2,13 @@
 
 Um silder criado em HTML, CSS e JAVASCRIPT para uma plataforma de trabalho para fotografos, onde você pode postar seus trabalhos e criar Network totalmente de graça
 
+
+Você pode ver o projeto funcionando [AQUI](https://vbrianb.github.io/Slider-JS)
+
+
+
+
+
 <img src="Angle-Print.gif" /> 
 
 
